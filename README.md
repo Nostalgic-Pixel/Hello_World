@@ -26,7 +26,7 @@ print("Hello World!")
 > 1. Python
 
 ### Youtube Video Link:
-> INSERT LINK HERE! [Hello World Demo Video](http://youtube.link.goes.here)
+> [Hello World Demo Video](https://www.youtube.com/watch?v=1q8xlN7HwS8)
 
 # Useful Websites
 
