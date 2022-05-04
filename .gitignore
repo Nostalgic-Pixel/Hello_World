@@ -1,2 +1,0 @@
-#.gitignore prevents files from being sent to the github repository.
-secret.py
